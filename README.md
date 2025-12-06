@@ -1,6 +1,6 @@
 # Hyper Casual Running Game
 
-[日本語版README](https://github.com/open-video-game-library/CasualRunGame/blob/master/README.JP.md)
+
 
 This is a hyper casual running game.
 
